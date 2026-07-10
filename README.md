@@ -24,6 +24,9 @@ The **PaySim Mobile Money Transaction Dataset** was used for this analytics task
 - Python
 - Pandas
 - Jupyter Notebook
+- Git
+- GitHub
+- Markdown
 
 ## Key Findings
 - Fraud labels are available, making this dataset useful for supervised learning problems.
@@ -31,3 +34,16 @@ The **PaySim Mobile Money Transaction Dataset** was used for this analytics task
 - There is a pattern to how fraud transactions are carried out.
 - All fraudulent transactions first transfer the amount out, and this doesn't get captured in the destination account.
 - After the fraudulent transfer, a cashout is made.
+
+## Buisness Impact
+- Understand transaction behaviour.
+- Prepare fraud detection initiatives.
+- Assess data quality before analysis.
+- Support data-driven decision-making.
+
+## Future Improvements
+- Perform Exploratory Data Analysis (EDA)
+- Build fraud detection model
+- Deploy insights using Streamlit
+- Build an interactive dashboard
+
